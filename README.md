@@ -1,7 +1,7 @@
 # Unit testing basics
 
-`index.ts` contains functions to be tested
+`index.ts` contains implemented functions to be tested
 
-`index.test.ts` contains tests
+`index.test.ts` contains implemented unit tests
 
-`npm test` - to start unit tests
+Use `npm test` to fire unit tests
